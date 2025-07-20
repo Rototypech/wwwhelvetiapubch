@@ -21,7 +21,7 @@ const HeroSection: React.FC = () => {
       <div 
         className="absolute inset-0 parallax-bg"
         style={{
-          backgroundImage: 'url(/images/helvetia-pub-bg.jpg)',
+          backgroundImage: 'url(/images/helvetia-pub-bg.png)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat'
